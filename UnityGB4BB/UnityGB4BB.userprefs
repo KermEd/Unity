@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LoaderScript.cs">
+    <Files>
+      <File FileName="Assets\unityGB\Scripts\unityGB\Emulator.cs" Line="6" Column="13" />
+      <File FileName="Assets\unityGB\Scripts\unityGB\EmulatorBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\unityGB\Scripts\DefaultSaveMemory.cs" Line="30" Column="26" />
+      <File FileName="Assets\unityGB\Scripts\DefaultEmulatorManager.cs" Line="54" Column="37" />
+      <File FileName="Assets\LoaderScript.cs" Line="101" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
